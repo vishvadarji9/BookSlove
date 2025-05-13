@@ -1,0 +1,29 @@
+MCQ
+1) B
+2) D
+3) D
+4) D
+5) B
+
+True Or False:-
+
+a)  True
+b)  False
+c)  True
+d)  True
+e)  False
+f)  True
+g)  False
+h)  False
+i)  True
+j)  False
+
+Fill in the blank:-
+a) Condidtion control loop
+b) Couter
+c) (n+1) Time
+d) infinite loop
+e) continue
+f) while loop
+g) break
+
