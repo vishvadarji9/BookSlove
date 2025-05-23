@@ -1,0 +1,36 @@
+MCQ:
+---
+(1) B
+(2)
+(3) A
+(4) D
+(5) C
+(6) B
+
+T/F:-
+-----
+(a) False 
+(b) True 
+(c) True 
+(d) False 
+(e) True 
+(f) True 
+(g) True 
+(h) False 
+(i) False 
+(j) False 
+(k) False 
+(l) True 
+
+
+Fill in the blank:-
+-------------------
+(a) index 
+(b) multidimensional 
+(c) sorting 
+(d) runtime 
+(e) dynamic 
+(f) garbage 
+(g) null character
+
+
